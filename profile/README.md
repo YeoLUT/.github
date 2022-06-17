@@ -5,7 +5,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/31945968/174295994-925554b9-16fb-45f0-a1a9-734982c30996.jpeg" alt="yeolut-award" width="400"/></p>
 
 # 팀 소개
-* 강병수 (Frontend Developer)
+* 강병수 (팀장, Frontend Developer)
 * 곽영일 (Backend Developer)
 * 강다경 (UI/UX Designer)
 # 프로젝트 개요
