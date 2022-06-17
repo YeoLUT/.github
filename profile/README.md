@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/YeoLUT/yeolut-front/raw/main/public/logo.svg" alt="yeolut-logo" width="400"/></p>
 
 # 프로젝트 소개 영상
+[![여럿 소개영상](https://user-images.githubusercontent.com/31945968/174322157-1446f9ed-14cf-4ded-9d59-8ea19e8737cc.png)](https://youtu.be/z1hOfF51jLM
+)
+
 # 수상이력
 <p align="center"><img src="https://user-images.githubusercontent.com/31945968/174295994-925554b9-16fb-45f0-a1a9-734982c30996.jpeg" alt="yeolut-award" width="400"/></p>
 
