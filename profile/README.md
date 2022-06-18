@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/YeoLUT/yeolut-front/raw/main/public/logo.svg" alt="yeolut-logo" width="400"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/31945968/174425506-dc1a242e-c078-4b21-b981-38e57e85373b.png" alt="yeolut-logo" width="400"/></p>
 
 # 프로젝트 소개 영상
 [![여럿 소개영상](https://user-images.githubusercontent.com/31945968/174322157-1446f9ed-14cf-4ded-9d59-8ea19e8737cc.png)](https://youtu.be/z1hOfF51jLM
@@ -26,5 +26,6 @@ LUT은 색감 보정이 가능한 프로그램과 컴퓨터만 있다면 추가�
 좋아요, 스크랩, 랭킹 등의 기능으로 LUT의 비교와 선택을 돕고 새로운 LUT 제작을 활성화합니다.
 
 # 기술 스택
-<p align="center"><img src="https://github.com/YeoLUT/.github/blob/main/tech_stack.png?raw=true" alt="yeolut-tech-stack"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/31945968/174425520-eb25ba9c-1a2d-40a0-ad06-1ac0bc74065c.png" alt="yeolut-tech-stack"/></p>
+
 
